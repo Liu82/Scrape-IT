@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ykmba9/All-the-News-That-s-Fit-to-Scrape.git"
+    "url": "git+https://github.com/Liu82/Scrape-IT"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ykmba9/All-the-News-That-s-Fit-to-Scrape/issues"
+    "url": "https://github.com/Liu82/Scrape-IT"
   },
-  "homepage": "https://github.com/ykmba9/All-the-News-That-s-Fit-to-Scrape#readme",
+  "homepage": "https://github.com/Liu82/Scrape-IT"
   "dependencies": {
     "axios": "^0.18.1",
     "body-parser": "^1.18.3",
